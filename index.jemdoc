@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Dimitri Bouche
+
+~~~
+{}{img_left}{files/photo.jpg}{alt text}{117}{156}
+PhD Candidate \n
+LTCI, Télécom Paris \n
+E-mail: /dimitri.bouche/ \[@\] telecom-paris \[DOT\] fr
+~~~
+
+== About me
+Since October 2019, I am a PhD candidate at Télécom Paris [\/https://www.telecom-paris.fr/ Télécom Paris] under the supervision of [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc], [\/https://sites.google.com/site/marianneclausel/ Marianne Clausel], and [\/https://perso.telecom-paristech.fr/roueff/ François Roueff] working on efficient methods to predict functions with applications to spatio-temporal data. \n 
+
+Before that, I graduated from [\/https://www.ensae.fr/ ENSAE] and [\/https://www.master-mva.com/ M2 MVA] from [\/https://ens-paris-saclay.fr/ ENS Paris-Saclay]. \n
+
+== Research Interests
+I'm globally interested in Machine Learning, and for the moment focus my attention on
+- Operator-Valued Kernels and integral Operators
+- Efficient learning for function-valued outputs
+- Applications of Machine Learning to impactful problems (renewable energy, medicine, ...)
+
+My list of publication is available [research.html here].

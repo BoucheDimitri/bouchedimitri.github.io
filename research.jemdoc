@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Publications and Preprints
+
+- *Nonlinear Functional Output Regression: A Dictionary Approach* (AISTATS 2021) \n
+  *Dimitri Bouche*, Marianne Clausel, François Roueff, Florence d'Alché-Buc ~~\[[\/files/pdf/aistats2021.pdf paper]\]
+ 
+ - *Wind power predictions from nowcasts to 4-hour forecasts: a learning approach with variable selection* (preprint, submitted) \n
+  *Dimitri Bouche*, Rémi Flamary, Florence d'Alché-Buc, Riwal Plougonven, Marianne Clausel, Jordi Badosa, Philippe Drobinski ~~\[[\/files/pdf/nowcast_to_short_term.pdf paper]\]
+
+- *Functional Output Regression with Infimal Convolution: Exploring the Huber and epsilon-insensitive Losses* (Accepted at ICML 2022) \n
+  Alex Lambert, *Dimitri Bouche*, Zoltan Szabo, Florence d'Alché-Buc ~~\[[\/files/pdf/robust_for.pdf paper]\]
+ 
